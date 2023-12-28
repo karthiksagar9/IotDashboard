@@ -1,0 +1,16 @@
+{
+    "devices": [
+      {"id": 1, "name": "Device1"},
+      {"id": 2, "name": "Device2"},
+      {"id": 3, "name": "Device3"},
+      {"id": 4, "name": "Device4"}
+    ],
+    "mqtt": {
+      "broker": "217.120.251.115",
+      "port": 5683,
+      "topic": "temperature",
+      "username": "lyvmqguser",
+      "password":"lyvmqguser"
+    }
+  }
+  
