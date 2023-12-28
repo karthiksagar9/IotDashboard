@@ -23,3 +23,7 @@ You can build and run the container with Docker Compose
 docker compose build
 docker compose up
 
+
+For generating data:
+Triggering the script from container, tried with celery to run as background task but faced some issue.
+
